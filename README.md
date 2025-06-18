@@ -1,4 +1,4 @@
-# Genome_sequence_download
+# Genome Downloader
 
 ## Overview
 The Genome Downloader is a Python script designed to download genomic data from the NCBI FTP server. It processes a tabular list of genomes, generates download URLs, and uses aria2c for efficient parallel downloads with retry capabilities.
