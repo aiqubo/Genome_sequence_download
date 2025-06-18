@@ -11,9 +11,10 @@ git clone https://github.com/your-repo/genome-downloader.git
 cd genome-downloader
 ```
 ## TSV file prepare
+[NCBI Genome](https://www.ncbi.nlm.nih.gov/datasets/genome/) Download --> Download Table\
+### As follow:
 ![image](https://github.com/user-attachments/assets/0d5e1b72-dfbb-480e-886b-99de4b8752ca)
-[NCBI Genome](https://www.ncbi.nlm.nih.gov/datasets/genome/) \
-Download --> Download Table
+
 
 ## Usage:
 
