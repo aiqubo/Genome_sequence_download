@@ -1,0 +1,103 @@
+Assembly Accession	Assembly Name	Organism Name	Organism Taxonomic ID	Annotation Name	Assembly Stats Total Sequence Length	Assembly Stats Total Number of Chromosomes	Assembly Level	WGS project accession	Assembly Stats Contig N50	Assembly Sequencing Tech	Assembly Submitter	CheckM completeness
+GCF_900637475.1	51108_B01	Yersinia pseudotuberculosis	633	GCF_900637475.1-RS_2024_12_13	4610200	1	Complete Genome		4610200	PacBio	SC	98.57
+GCF_003798425.1	ASM379842v1	Yersinia pseudotuberculosis	633	GCF_003798425.1-RS_2024_07_16	5096964	2	Complete Genome		5026929	PacBio; Illumina	US Food and Drug Administration	99.25
+GCF_045865145.1	ASM4586514v1	Yersinia pseudotuberculosis	633	GCF_045865145.1-RS_2024_12_11	5008018	1	Complete Genome		5008018	MiSeq; Oxford Nanopore MinION	Contact:Kazuaki Yasuoka Faculty of Medical Sciences, Kyushu university, Department of Bacteriology; 3-1-1 Maidashi, Fukuoka 812-8582, Japan	98.92
+GCF_900636705.1	43908_A02	Yersinia pseudotuberculosis	633	GCF_900636705.1-RS_2025_02_12	4938759	1	Complete Genome		4938759	PacBio	SC	97.09
+GCF_003798445.1	ASM379844v1	Yersinia pseudotuberculosis	633	GCF_003798445.1-RS_2024_07_16	4981010	2	Complete Genome		4910698	PacBio; Illumina	US Food and Drug Administration	98.49
+GCF_003546905.1	ASM354690v1	Yersinia pseudotuberculosis	633	GCF_003546905.1-RS_2024_11_18	4905554	1	Complete Genome		4905554	PacBio; Illumina	US Food and Drug Administration	98.32
+GCF_030294965.1	ASM3029496v1	Yersinia pseudotuberculosis	633	GCF_030294965.1-RS_2024_06_21	4923328	2	Complete Genome		4848496	Oxford Nanopore Technology MinION; illumina MiSeq	Department of Infectious Diseases	99.28
+GCF_045865155.1	ASM4586515v1	Yersinia pseudotuberculosis	633	GCF_045865155.1-RS_2024_12_11	4911601	2	Complete Genome		4836613	MiSeq; Oxford Nanopore MinION	Contact:Kazuaki Yasuoka Faculty of Medical Sciences, Kyushu university, Department of Bacteriology; 3-1-1 Maidashi, Fukuoka 812-8582, Japan	99.11
+GCF_045865165.1	ASM4586516v1	Yersinia pseudotuberculosis	633	GCF_045865165.1-RS_2024_12_11	4911284	2	Complete Genome		4836274	MiSeq; Oxford Nanopore MinION	Contact:Kazuaki Yasuoka Faculty of Medical Sciences, Kyushu university, Department of Bacteriology; 3-1-1 Maidashi, Fukuoka 812-8582, Japan	98.83
+GCF_045865135.1	ASM4586513v1	Yersinia pseudotuberculosis	633	GCF_045865135.1-RS_2024_12_11	4897470	2	Complete Genome		4822514	MiSeq; Oxford Nanopore MinION	Contact:Kazuaki Yasuoka Faculty of Medical Sciences, Kyushu university, Department of Bacteriology; 3-1-1 Maidashi, Fukuoka 812-8582, Japan	99.27
+GCF_045865175.1	ASM4586517v1	Yersinia pseudotuberculosis	633	GCF_045865175.1-RS_2024_12_11	4811060	1	Complete Genome		4811060	MiSeq; Oxford Nanopore MinION	Contact:Kazuaki Yasuoka Faculty of Medical Sciences, Kyushu university, Department of Bacteriology; 3-1-1 Maidashi, Fukuoka 812-8582, Japan	98.81
+GCF_000750315.1	ASM75031v1	Yersinia pseudotuberculosis	633	GCF_000750315.1-RS_2025_01_24	4806594	1	Complete Genome		4806594	Illumina; 454	Los Alamos National Laboratory	97.27
+GCF_045865185.1	ASM4586518v1	Yersinia pseudotuberculosis	633	GCF_045865185.1-RS_2024_12_11	4800666	2	Complete Genome		4796399	MiSeq; Oxford Nanopore MinION	Contact:Kazuaki Yasuoka Faculty of Medical Sciences, Kyushu university, Department of Bacteriology; 3-1-1 Maidashi, Fukuoka 812-8582, Japan	99.47
+GCF_003798405.1	ASM379840v1	Yersinia pseudotuberculosis	633	GCF_003798405.1-RS_2024_07_16	4832460	2	Complete Genome		4762645	PacBio; Illumina	US Food and Drug Administration	99.7
+GCF_030644845.1	ASM3064484v1	Yersinia pseudotuberculosis	633	GCF_030644845.1-RS_2024_08_09	4979983	5	Complete Genome		4741829	Illumina NextSeq; Oxford Nanopore MinION	Institut Pasteur	99.61
+GCF_000834355.1	ASM83435v1	Yersinia pseudotuberculosis	633	GCF_000834355.1-RS_2025_01_24	4729753	1	Complete Genome		4729753	Illumina; PacBio; 454	Los Alamos National Laboratory	99.37
+GCF_000834435.1	ASM83443v1	Yersinia pseudotuberculosis	633	GCF_000834435.1-RS_2025_01_24	4728337	1	Complete Genome		4728337	Illumina; PacBio; 454	Los Alamos National Laboratory	98.7
+GCF_900092345.1	YP4713	Yersinia pseudotuberculosis	633	GCF_900092345.1-RS_2025_02_11	4794091	2	Complete Genome		4724276	RS-II	UNIVERSITY OF MELBOURNE	99.66
+GCF_000834415.1	ASM83441v1	Yersinia pseudotuberculosis	633	GCF_000834415.1-RS_2025_01_24	4774559	2	Complete Genome		4706165	Illumina; PacBio; 454	Los Alamos National Laboratory	98.02
+GCF_045865125.1	ASM4586512v1	Yersinia pseudotuberculosis	633	GCF_045865125.1-RS_2024_12_11	4705119	1	Complete Genome		4705119	MiSeq; Oxford Nanopore MinION	Contact:Kazuaki Yasuoka Faculty of Medical Sciences, Kyushu university, Department of Bacteriology; 3-1-1 Maidashi, Fukuoka 812-8582, Japan	98.7
+GCF_003798385.1	ASM379838v1	Yersinia pseudotuberculosis	633	GCF_003798385.1-RS_2024_11_18	4689430	1	Complete Genome		4689430	PacBio; Illumina	US Food and Drug Administration	99.23
+GCF_900635755.1	33467_B01	Yersinia pseudotuberculosis	633	GCF_900635755.1-RS_2025_04_05	4687913	1	Complete Genome		4687913	PacBio	SC	98.9
+GCF_900635715.1	32473_H02	Yersinia pseudotuberculosis	633	GCF_900635715.1-RS_2025_04_05	4678752	1	Complete Genome		4678752	PacBio	SC	99.54
+GCF_003814345.1	ASM381434v1	Yersinia pseudotuberculosis	633	GCF_003814345.1-RS_2025_04_02	4681481	2	Complete Genome		4614856	PacBio RSII; MiSeq	University of California - Santa Cruz	98.84
+GCF_003798305.1	ASM379830v1	Yersinia pseudotuberculosis	633	GCF_003798305.1-RS_2024_07_16	4681477	2	Complete Genome		4614836	PacBio; Illumina	US Food and Drug Administration	98.96
+GCF_047649225.1	ASM4764922v1	Yersinia pseudotuberculosis	633	GCF_047649225.1-RS_2025_02_12	4658057	2	Complete Genome		4589702	MGISeq-2000; Oxford Nanopore MinION	Science Department, SRCAMB	98.48
+GCF_003798285.1	ASM379828v1	Yersinia pseudotuberculosis	633	GCF_003798285.1-RS_2024_07_16	4652188	2	Complete Genome		4582218	PacBio; Illumina	US Food and Drug Administration	98.57
+GCF_036512675.1	ASM3651267v1	Yersinia pseudotuberculosis	633	GCF_036512675.1-RS_2025_04_04	5210829	4	Complete Genome		4497756	PacBio	National Institute of Infectious Diseases	98.35
+GCF_008693365.1	ASM869336v1	Yersinia pseudotuberculosis	633	GCF_008693365.1-RS_2024_11_19	4367018	1	Complete Genome		4367018	Pacbio; Illumina	US Food and Drug Administration	90.58
+GCF_000834375.1	ASM83437v1	Yersinia pseudotuberculosis YPIII	502800	GCF_000834375.1-RS_2025_01_24	4689436	1	Complete Genome		4689436	Illumina; PacBio; 454	Los Alamos National Laboratory	99.23
+GCF_000047365.1	ASM4736v1	Yersinia pseudotuberculosis IP 32953	273123	GCF_000047365.1-RS_2025_04_04	4840898	3	Complete Genome		4744671		Lawrence Livermore National Laboratory	99.7
+GCF_000834295.1	ASM83429v1	Yersinia pseudotuberculosis IP 32953	273123	GCF_000834295.1-RS_2025_01_24	4839430	3	Complete Genome		4743972	Illumina; PacBio; 454	Los Alamos National Laboratory	99.82
+GCF_000834945.1	ASM83494v1	Yersinia pseudotuberculosis str. PA3606	748672	GCF_000834945.1-RS_2025_01_24	4830299	3	Complete Genome		4742580	Illumina; PacBio; 454	Los Alamos National Laboratory	99.1
+GCF_000834475.1	ASM83447v1	Yersinia pseudotuberculosis PB1/+	502801	GCF_000834475.1-RS_2025_01_24	4765387	2	Complete Genome		4695575	Illumina; PacBio; 454	Los Alamos National Laboratory	99.69
+GCF_000016945.1	ASM1694v1	Yersinia pseudotuberculosis IP 31758	349747	GCF_000016945.1-RS_2025_03_30	4935125	3	Complete Genome		4723306		TIGR	99.42
+GCF_020889805.1	ASM2088980v1	Yersinia pseudotuberculosis	633	GCF_020889805.1-RS_2025_02_01	4949806	3	Chromosome		4330712	Illumina MiSeq; Oxford Nanopore MiniION	N.F.Gamaleya National Research Center for Epidemiology and Microbiology	99.53
+GCF_000511675.1	ASM51167v1	Yersinia pseudotuberculosis NBRC 105692	1218101	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	4506724		Contig	BAUR01	57555	454 GS-FLX Titanium; Illumina HiSeq 1000	National Institute of Technology and Evaluation	98.32
+GCF_900460685.1	52592_C01	Yersinia pseudotuberculosis	633	GCF_900460685.1-RS_2024_09_12	5029729		Contig	UHJC01	4980292	PacBio	SC	94.32
+GCF_002554645.1	ASM255464v1	Yersinia pseudotuberculosis	633	GCF_002554645.1-RS_2024_12_13	4994213		Contig	PDEJ01	4927747	PacBio; Illumina	University of Maryland School of Medicine Institute for Genome Sciences (IGS) - sequencing center	98.25
+GCF_016535475.1	ASM1653547v1	Yersinia pseudotuberculosis	633	GCF_016535475.1-RS_2025_01_17	4765910		Contig	JAEKFW01	4540845	Pacbio; Illumina	US Food and Drug Administration	98.81
+GCF_900460645.1	56080_E02	Yersinia pseudotuberculosis	633	GCF_900460645.1-RS_2024_09_11	4726818		Contig	UHJE01	2509025	PacBio	SC	94.32
+GCF_900460735.1	56080_D02	Yersinia pseudotuberculosis	633	GCF_900460735.1-RS_2024_09_11	4668003		Contig	UHJD01	725556	PacBio	SC	95.58
+GCF_900460705.1	53205_C01	Yersinia pseudotuberculosis	633	GCF_900460705.1-RS_2024_09_10	4404361		Contig	UAVK01	436416	PacBio	SC	93.52
+GCF_000754965.1	YAQ	Yersinia pseudotuberculosis	633	GCF_000754965.1-RS_2025_01_31	4771836		Scaffold	JPIY01	305525	454; Illumina	Los Alamos National Laboratory	96.99
+GCF_021344095.1	ASM2134409v1	Yersinia pseudotuberculosis	633	GCF_021344095.1-RS_2025_01_17	4887280		Contig	JAJTTQ01	206962	MiSeq Illumina	Rostov-on-Don Antiplague Institute	99.44
+GCF_001108005.1	5139_2#2	Yersinia pseudotuberculosis	633	GCF_001108005.1-RS_2024_12_01	4743602		Scaffold	CQBJ01	197804	SLX	SC	99.43
+GCF_001244655.1	5139_1#7	Yersinia pseudotuberculosis	633	GCF_001244655.1-RS_2025_04_07	4385299		Contig	CWJJ01	191330	SLX	SC	90.9
+GCF_001155645.1	5139_1#10	Yersinia pseudotuberculosis	633	GCF_001155645.1-RS_2025_02_10	4304241		Contig	CPVC01	191313	SLX	SC	90.25
+GCF_001319665.1	5139_3#7	Yersinia pseudotuberculosis	633	GCF_001319665.1-RS_2025_02_10	4371221		Contig	CGGB01	174445	SLX	SC	90.36
+GCF_001110725.1	5139_3#3	Yersinia pseudotuberculosis	633	GCF_001110725.1-RS_2025_02_10	4428945		Scaffold	CPUY01	174404	SLX	SC	90.47
+GCF_001157205.1	5139_3#9	Yersinia pseudotuberculosis	633	GCF_001157205.1-RS_2024_08_07	4682829		Contig	CQEA01	160228	SLX	SC	99.06
+GCF_021457525.1	ASM2145752v1	Yersinia pseudotuberculosis	633	GCF_021457525.1-RS_2025_01_19	4868966		Contig	JAKDEY01	157021	Illumina MiSeq	Research Institute for Plague Control	99.23
+GCF_001319765.1	5139_2#6	Yersinia pseudotuberculosis	633	GCF_001319765.1-RS_2025_02_10	4633967		Scaffold	CGBX01	156005	SLX	SC	99.43
+GCF_001150985.1	5139_2#3	Yersinia pseudotuberculosis	633	GCF_001150985.1-RS_2025_02_10	4667379		Scaffold	CQDR01	155205	SLX	SC	98.54
+GCF_001136125.1	5139_3#10	Yersinia pseudotuberculosis	633	GCF_001136125.1-RS_2024_10_12	4641476		Scaffold	CQBA01	154581	SLX	SC	99.37
+GCF_001172325.1	5139_3#2	Yersinia pseudotuberculosis	633	GCF_001172325.1-RS_2024_08_08	4955814		Scaffold	CPXB01	150016	SLX	SC	98.4
+GCF_001144105.1	5139_2#8	Yersinia pseudotuberculosis	633	GCF_001144105.1-RS_2025_02_10	4741415		Contig	CQDI01	148298	SLX	SC	98.66
+GCF_001124425.1	5139_2#9	Yersinia pseudotuberculosis	633	GCF_001124425.1-RS_2024_08_08	4669540		Scaffold	CQEU01	145687	SLX	SC	98.98
+GCF_001166025.1	5139_2#10	Yersinia pseudotuberculosis	633	GCF_001166025.1-RS_2025_02_10	4849251		Scaffold	CQEB01	144632	SLX	SC	99.45
+GCF_004137375.1	ASM413737v1	Yersinia pseudotuberculosis	633	GCF_004137375.1-RS_2025_04_08	4866650		Contig	SDWX01	140566	Illumina MiSeq	Saint Petersburg Pasteur Institute	99.44
+GCF_017498935.1	ASM1749893v1	Yersinia pseudotuberculosis	633	GCF_017498935.1-RS_2024_10_12	4640492		Contig	WGGL01	137322	Illumina	German Federal Institute for Risk Assessment	99.64
+GCF_003010785.1	ASM301078v1	Yersinia pseudotuberculosis	633	GCF_003010785.1-RS_2024_09_05	4732574		Contig	MNKT01	126698	Illumina MiSeq	Federal Insitute for Risk Assessment	99.05
+GCF_001125265.1	5139_3#8	Yersinia pseudotuberculosis	633	GCF_001125265.1-RS_2025_02_10	4874059		Scaffold	CPXN01	125537	SLX	SC	98.67
+GCF_017498965.1	ASM1749896v1	Yersinia pseudotuberculosis	633	GCF_017498965.1-RS_2024_10_12	4885485		Contig	WGGM01	122708	Illumina	German Federal Institute for Risk Assessment	98.77
+GCF_001319725.1	5139_2#11	Yersinia pseudotuberculosis	633	GCF_001319725.1-RS_2025_02_10	4714881		Scaffold	CIFL01	119992	SLX	SC	98.96
+GCF_001220805.1	5139_3#4	Yersinia pseudotuberculosis	633	GCF_001220805.1-RS_2025_02_10	4806612		Scaffold	CTIQ01	119604	SLX	SC	98.66
+GCF_001123345.1	5139_1#6	Yersinia pseudotuberculosis	633	GCF_001123345.1-RS_2025_02_10	4857504		Scaffold	CPWG01	116062	SLX	SC	94.98
+GCF_001319785.1	5139_3#11	Yersinia pseudotuberculosis	633	GCF_001319785.1-RS_2025_02_10	4727629		Scaffold	CHDQ01	115876	SLX	SC	99.11
+GCF_017498835.1	ASM1749883v1	Yersinia pseudotuberculosis	633	GCF_017498835.1-RS_2024_10_12	4848043		Contig	WGGG01	115104	Illumina	German Federal Institute for Risk Assessment	99.81
+GCF_017498955.1	ASM1749895v1	Yersinia pseudotuberculosis	633	GCF_017498955.1-RS_2024_10_12	4913954		Contig	WGGN01	115104	Illumina	German Federal Institute for Risk Assessment	99.81
+GCF_001319705.1	5139_3#5	Yersinia pseudotuberculosis	633	GCF_001319705.1-RS_2025_02_10	4921823		Scaffold	CIKF01	114859	SLX	SC	98.43
+GCF_017498795.1	ASM1749879v1	Yersinia pseudotuberculosis	633	GCF_017498795.1-RS_2024_10_12	4885959		Contig	WGGE01	114465	Illumina	German Federal Institute for Risk Assessment	98.77
+GCF_017499015.1	ASM1749901v1	Yersinia pseudotuberculosis	633	GCF_017499015.1-RS_2024_10_12	4650568		Contig	WGGP01	111738	Illumina	German Federal Institute for Risk Assessment	98.91
+GCF_017499035.1	ASM1749903v1	Yersinia pseudotuberculosis	633	GCF_017499035.1-RS_2024_10_12	4953366		Contig	WMBG01	102416	Illumina MiSeq	German Federal Institute for Risk Assessment	99.53
+GCF_017498865.1	ASM1749886v1	Yersinia pseudotuberculosis	633	GCF_017498865.1-RS_2024_10_12	4905780		Contig	WGGH01	98153	Illumina	German Federal Institute for Risk Assessment	98.79
+GCF_017498895.1	ASM1749889v1	Yersinia pseudotuberculosis	633	GCF_017498895.1-RS_2024_10_12	4704906		Contig	WGGK01	96365	Illumina	German Federal Institute for Risk Assessment	99.64
+GCF_017498915.1	ASM1749891v1	Yersinia pseudotuberculosis	633	GCF_017498915.1-RS_2024_10_12	4639834		Contig	WGGJ01	96365	Illumina	German Federal Institute for Risk Assessment	99.64
+GCF_017498805.1	ASM1749880v1	Yersinia pseudotuberculosis	633	GCF_017498805.1-RS_2024_10_12	4912841		Contig	WGGF01	95291	Illumina	German Federal Institute for Risk Assessment	99.81
+GCF_017498985.1	ASM1749898v1	Yersinia pseudotuberculosis	633	GCF_017498985.1-RS_2024_10_12	4913414		Contig	WGGO01	95135	Illumina	German Federal Institute for Risk Assessment	99.81
+GCF_017776515.1	ASM1777651v1	Yersinia pseudotuberculosis	633	GCF_017776515.1-RS_2024_09_29	4911289		Contig	WMBH01	94322	Illumina	German Federal Institute for Risk Assessment	99.66
+GCF_003010525.1	ASM301052v1	Yersinia pseudotuberculosis	633	GCF_003010525.1-RS_2024_09_05	4764910		Contig	MNKR01	85766	Illumina	Federal Insitute for Risk Assessment	99.01
+GCF_000613105.1	CEB14_0017	Yersinia pseudotuberculosis	633	GCF_000613105.1-RS_2024_08_20	4894739		Scaffold	CCBI01	77287		UPSUD	97.76
+GCF_003010855.1	ASM301085v1	Yersinia pseudotuberculosis	633	GCF_003010855.1-RS_2024_09_05	4580728		Contig	MAKV01	75780	Illumina	Federal Insitute for Risk Assessment	98.31
+GCF_017498855.1	ASM1749885v1	Yersinia pseudotuberculosis	633	GCF_017498855.1-RS_2024_10_12	4946661		Contig	WGGI01	71104	Illumina	German Federal Institute for Risk Assessment	98.79
+GCF_003010835.1	ASM301083v1	Yersinia pseudotuberculosis	633	GCF_003010835.1-RS_2024_09_05	4628486		Contig	MAKU01	60683	Illumina	Federal Insitute for Risk Assessment	99.72
+GCF_003010555.1	ASM301055v1	Yersinia pseudotuberculosis	633	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	4665837		Contig	NCLA01	57872	Illumina	Federal Insitute for Risk Assessment	99.07
+GCF_003010795.1	ASM301079v1	Yersinia pseudotuberculosis	633	GCF_003010795.1-RS_2024_09_05	4706236		Contig	MAKS01	57543	Illumina	Federal Insitute for Risk Assessment	98.7
+GCF_001319885.1	4840_7#11	Yersinia pseudotuberculosis	633	GCF_001319885.1-RS_2025_02_10	4850145		Scaffold	CGGM01	55511	SLX	SC	98.88
+GCF_001104045.1	4821_8#12	Yersinia pseudotuberculosis	633	GCF_001104045.1-RS_2025_02_10	4686583		Scaffold	CPWK01	52948	SLX	SC	98.92
+GCF_003010565.1	ASM301056v1	Yersinia pseudotuberculosis	633	GCF_003010565.1-RS_2024_09_05	4734063		Contig	MNKQ01	45595	Illumina MiSeq	Federal Insitute for Risk Assessment	98.42
+GCF_001244855.1	4840_7#12	Yersinia pseudotuberculosis	633	GCF_001244855.1-RS_2025_02_10	4617115		Scaffold	CWJN01	39111	SLX	SC	98.64
+GCF_003025395.1	ASM302539v1	Yersinia pseudotuberculosis	633	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	4655787		Contig	NCKY01	38668	Illumina	Federal Insitute for Risk Assessment	98.36
+GCF_003010755.1	ASM301075v1	Yersinia pseudotuberculosis	633	GCF_003010755.1-RS_2024_09_05	4569157		Contig	MAKT01	35025	Illumina	Federal Insitute for Risk Assessment	96.4
+GCF_003010515.1	ASM301051v1	Yersinia pseudotuberculosis	633	GCF_003010515.1-RS_2024_09_05	4758949		Contig	NCLF01	34408	Illumina	Federal Insitute for Risk Assessment	94.89
+GCF_023108945.1	ASM2310894v1	Yersinia pseudotuberculosis	633	GCF_023108945.1-RS_2025_05_12	4796966		Contig	JALHKU01	33276	Illumina MiSeq	Rostov-on-Don Antiplague Institute	99.07
+GCF_003010765.1	ASM301076v1	Yersinia pseudotuberculosis	633	GCF_003010765.1-RS_2024_09_05	4429863		Scaffold	MNKS01	10221	Illumina MiSeq	Federal Insitute for Risk Assessment	96.05
+GCF_000403705.1	B-7194	Yersinia pseudotuberculosis B-7194	1324608	GCF_000403705.1-RS_2025_01_30	4427121		Contig	CBKS01	30936		UPSUD	98.11
+GCF_000343995.1	ASM34399v1	Yersinia pseudotuberculosis B-6863	1286086	GCF_000343995.1-RS_2025_03_27	4268655		Contig	CAQV01	30222		UPSUD	90.26
+GCF_000403745.1	B-7195	Yersinia pseudotuberculosis B-7195	1324587	GCF_000403745.1-RS_2025_01_30	4608472		Contig	CBKR01	28987		UPSUD	99.16
+GCF_000344035.1	ASM34403v1	Yersinia pseudotuberculosis B-6865	1286088	GCF_000344035.1-RS_2025_03_27	4274148		Contig	CAQX01	27025		UPSUD	90.16
+GCF_000343955.1	ASM34395v1	Yersinia pseudotuberculosis B-6796	1286084	GCF_000343955.1-RS_2025_02_15	4263065		Contig	CAQT01	25799		UPSUD	90.18
+GCF_000343975.1	ASM34397v1	Yersinia pseudotuberculosis B-6862	1286085	GCF_000343975.1-RS_2025_03_27	4272544		Contig	CAQU01	25297		UPSUD	90.67
