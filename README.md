@@ -12,7 +12,7 @@ cd genome-downloader
 ```
 ## TSV file prepare
 ![image](https://github.com/user-attachments/assets/0d5e1b72-dfbb-480e-886b-99de4b8752ca)
-[NCBIGenome](https://www.ncbi.nlm.nih.gov/datasets/genome/) 
+[NCBI Genome](https://www.ncbi.nlm.nih.gov/datasets/genome/) \
 Download --> Download Table
 
 ## Usage:
