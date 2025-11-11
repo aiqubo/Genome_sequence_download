@@ -18,7 +18,7 @@ cd genome-downloader
 
 ## Usage:
 
-python ARMS_complete.py [--help] [--version] [--fasta FASTA] [--length LENGTH] [--nomask] [--param PARAM] [--output OUTPUT]
+python sequence_download.py [--help] [--version] [--fasta FASTA] [--length LENGTH] [--nomask] [--param PARAM] [--output OUTPUT]
 
 **example:**
 ```
